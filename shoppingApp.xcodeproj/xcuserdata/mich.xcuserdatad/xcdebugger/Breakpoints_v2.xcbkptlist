@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B845FF96-6941-42CE-88FA-A192FFB52215"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "544E8B9D-2839-40F4-A079-459A6E105377"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shoppingApp/ElectronicsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ElectronicsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - 8565e854b7564d0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.SinglePicker.getter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - afdacc94cbc42d1e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.SinglePicker.setter : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - 2166d16dbb89b5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.SinglePicker.modify : Swift.Optional&lt;__C.UIPickerView&gt;"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - 38d4dce46ecd1a20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.SinglePicker.modify : Swift.Optional&lt;__C.UIPickerView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - f266b7326fd29039"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; shoppingApp.ElectronicsViewController"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "161">
+               </Location>
+               <Location
+                  uuid = "544E8B9D-2839-40F4-A079-459A6E105377 - 28d62b781ede2869"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "shoppingApp.ElectronicsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;shoppingApp.ElectronicsViewController&gt;"
+                  moduleName = "shoppingApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mich/Documents/MAPD-centennial/iOS%20%E4%B8%89-714-TT/midterm/shoppingApp/shoppingApp/ElectronicsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FDF7893-A57C-41D5-9DAB-AB798DCD5AD9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "shoppingApp/ElectronicsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "onSubmitPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
